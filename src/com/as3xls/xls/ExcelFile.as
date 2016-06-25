@@ -43,6 +43,10 @@ package com.as3xls.xls {
 			0xEE, 0xF1, 0x13D, 0x1AF, 0x1B6, 
 			0x1B7, 0x1BC, 0x1C0, 0x1C1,	0x1C2, 
 			0x863, 0x8C8, 0x105C];
+
+		public function ExcelFile(){
+			
+		}
 		
 		private function initHandlers():Array {
 			var handlers:Array = [
